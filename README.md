@@ -23,7 +23,7 @@ From there, you can choose to either run the application locally or deploy it to
 
 Deploy the application to Koyeb using the following button:
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=inngest/deepseek-r1-marketing-multilangual-example&branch=main&name=deepseek-r1-arxiv-research)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=inngest/deepseek-r1-marketing-multilangual-example&branch=main&name=marketing-multilangual-generator)
 
 Then, once your application is deployed, login into your Inngest dashboard and configure a new sync using the following url:
 
