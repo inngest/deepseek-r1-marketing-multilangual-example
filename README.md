@@ -1,6 +1,6 @@
-# Marketing Multilangual Generator
+# Marketing Multilingual Generator
 
-This example demonstrates how to build an Marketing Multilangual Generator using Inngest and the DeepSeek R1 model. The generator will generate marketing content in multiple languages, adapting the tone and style to the target audience.
+This example demonstrates how to build an Marketing Multilingual Generator using Inngest and the DeepSeek R1 model. The generator will generate marketing content in multiple languages, adapting the tone and style to the target audience.
 
 Requirements
 To successfully follow this tutorial, you will need the following:
@@ -23,7 +23,7 @@ From there, you can choose to either run the application locally or deploy it to
 
 Deploy the application to Koyeb using the following button:
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=inngest/deepseek-r1-marketing-multilangual-example&branch=main&name=marketing-multilangual-generator)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=inngest/deepseek-r1-marketing-multilingual-example&branch=main&name=marketing-multilingual-generator)
 
 Then, once your application is deployed, login into your Inngest dashboard and configure a new sync using the following url:
 
